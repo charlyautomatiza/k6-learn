@@ -2,6 +2,8 @@
 
 https://github.com/grafana/k6-learn
 
+  - [Spanish version](?p=esp/intro)
+
 ---
 
 ## What will you learn today?
@@ -56,4 +58,4 @@ You will need:
 
 ## Let's get started!
 
-- Move to: [01-introduction-to-performance-testing](?p=01-introduction-to-performance-testing) - for beginner
+- Siguiente capítulo: [01-introduction-to-performance-testing](?p=01-introduction-to-performance-testing) - for beginner
